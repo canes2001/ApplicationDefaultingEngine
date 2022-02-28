@@ -1,2 +1,2 @@
 # ApplicationDefaultingEngine
-Initial architecture idea for a application specific defaulting enging
+Initial architecture idea for a application specific defaulting engine
